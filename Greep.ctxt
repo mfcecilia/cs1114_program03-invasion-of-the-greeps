@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Greep()
+comment0.text=\r\n\ Creates\ a\ new\ Greep\ object.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ greeps\ collect\ tomotoes\r\n\ then\ bring\ them\ back\ to\ the\ ship\r\n\ avoiding\ water\ along\ the\ way\r\n\ and\ communicating\ with\ paint\ trails\r\n
+comment2.params=
+comment2.target=void\ navigate()
+comment2.text=\r\n\ 15%\ chance\ of\ turning\ right\r\n\ 15%\ chance\ of\ turning\ left\r\n\ 70%\ chance\ of\ moving\ ahead\r\n\ allows\ greeps\ to\ traverse\ the\ world\r\n
+comment3.params=
+comment3.target=void\ checkWater()
+comment3.text=\r\n\ keeps\ greep\ from\ drowning\r\n
+comment4.params=
+comment4.target=void\ tomatoGuard()
+comment4.text=\r\n\ keeps\ a\ greep\ at\ the\ tomato\ to\ be\ a\ loader\r\n
+comment5.params=
+comment5.target=void\ tomatoRunner()
+comment5.text=\r\n\ these\ greeps\ take\ tomatoes\ to\ the\ ship\r\n\ if\ there\ are\ already\ guards\ at\ the\ tomato\ patches.\r\n
+comment6.params=
+comment6.target=void\ scanTomato()
+comment6.text=\r\n\ scans\ their\ surroundings\ for\ a\ tomato\r\n
+comment7.params=
+comment7.target=void\ scanShip()
+comment7.text=\r\n\ scans\ their\ surroundings\ for\ a\ ship\r\n
+numComments=8
